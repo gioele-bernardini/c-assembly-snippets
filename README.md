@@ -6,8 +6,7 @@ Questo e' un paragrafo.
 
 Questo e' un altro paragrafo
 
-**Testo in grassetto**
-*Testo in corsivo*
+**Testo in grassetto** *Testo in corsivo*
 
 - elemento 1
 - elemento 2
