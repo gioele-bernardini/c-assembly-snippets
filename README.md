@@ -24,8 +24,10 @@ Questo e' un altro paragrafo
 
 `questo e' un blocco di codice`
 
-```questo e' un blocco di codice
-e va avanti```
+```
+e va avanti
+su piu' righe
+```
 
 ![logo immagine](https://esempio.com/)
 
