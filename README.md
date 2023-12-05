@@ -22,10 +22,10 @@ Questo e' un altro paragrafo
 
 > Questo e' un blocco di citazione
 
-'questo e' un blocco di codice'
+`questo e' un blocco di codice`
 
-'''questo e' un blocco di codice
-e va avanti'''
+```questo e' un blocco di codice
+e va avanti```
 
 ![logo immagine](https://esempio.com/)
 
